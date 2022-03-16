@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Test3": {
+      "commandName": "Project",
+      "commandLineArgs": "F:/Textes/Russian.txt F:/Textes/English.txt"
+    }
+  }
+}
